@@ -1,0 +1,7 @@
+.table_theme_dark{
+    margin-bottom: 90px;
+    z-index: 13;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
