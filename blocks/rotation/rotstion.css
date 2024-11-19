@@ -7,6 +7,6 @@
       transform: rotate(360deg);
     }
   }
-  .rotation{
-    animation: rotation infinite linear 20s normal;
+  .header__square-pic.rotation {
+    animation: rotate infinite linear 20s normal;
   }

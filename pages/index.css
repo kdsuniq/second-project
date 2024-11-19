@@ -75,3 +75,8 @@
 @import url(../blocks/khan/khan__quote/khan__quote-autor/khan__quote-autor.css);
 @import url(../blocks/khan/khan__title/khan__title.css);
 @import url(../blocks/khan/khan__quote/khan__quote.css);
+
+@import url(../blocks/resources/resources__link/resources__link.css);
+@import url(../blocks/resources/resources__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/resources__logo/resources__logo.css);

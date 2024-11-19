@@ -1,0 +1,8 @@
+.khan__book-container{
+    display: flex;
+    flex-flow: row;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+
+}
